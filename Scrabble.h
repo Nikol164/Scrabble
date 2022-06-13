@@ -5,10 +5,6 @@
 * Faculty of Mathematics and Informatics of Sofia University
 * Winter semester 2021/2022
 *
-* @author Nikol Nikolaeva
-* @idnumber 2MI0600079
-* @compiler VC
-*
 * This file contains helper functions for the program
 *
 */
